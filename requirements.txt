@@ -1,0 +1,6 @@
+lxml
+chromadb
+google-genai
+python-fasthtml
+MonsterUI
+httpx

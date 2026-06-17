@@ -1,0 +1,6 @@
+.env
+.sesskey
+chroma_db/
+__pycache__
+*.pyc
+
