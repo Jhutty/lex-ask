@@ -4,6 +4,8 @@ Ask questions about the EU AI Act and get grounded, cited answers in seconds.
 
 **Live demo:** [lex-ask.jhutty.de](https://lex-ask.jhutty.de)
 
+(First load may take ~30s due to cold start)
+
 ## What it does
 
 Lex-Ask is a Retrieval-Augmented Generation (RAG) app that answers natural-language questions about the EU AI Act (Regulation (EU) 2024/1689). 
